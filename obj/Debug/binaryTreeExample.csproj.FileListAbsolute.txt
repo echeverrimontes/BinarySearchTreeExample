@@ -1,0 +1,12 @@
+C:\Users\echeverrimontes\source\repos\binaryTreeExample\bin\binaryTreeExample.dll
+C:\Users\echeverrimontes\source\repos\binaryTreeExample\bin\binaryTreeExample.pdb
+C:\Users\echeverrimontes\source\repos\binaryTreeExample\obj\Debug\binaryTreeExample.csproj.AssemblyReference.cache
+C:\Users\echeverrimontes\source\repos\binaryTreeExample\obj\Debug\binaryTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\echeverrimontes\source\repos\binaryTreeExample\obj\Debug\binaryTreeExample.dll
+C:\Users\echeverrimontes\source\repos\binaryTreeExample\obj\Debug\binaryTreeExample.pdb
+C:\Users\echeverrimontes\source\repos\binaryTreeExample_001\bin\binaryTreeExample.dll
+C:\Users\echeverrimontes\source\repos\binaryTreeExample_001\bin\binaryTreeExample.pdb
+C:\Users\echeverrimontes\source\repos\binaryTreeExample_001\obj\Debug\binaryTreeExample.csproj.AssemblyReference.cache
+C:\Users\echeverrimontes\source\repos\binaryTreeExample_001\obj\Debug\binaryTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\echeverrimontes\source\repos\binaryTreeExample_001\obj\Debug\binaryTreeExample.dll
+C:\Users\echeverrimontes\source\repos\binaryTreeExample_001\obj\Debug\binaryTreeExample.pdb
